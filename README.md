@@ -1,4 +1,15 @@
-# Bangladesh Tourism Analytics: Insights and Implications
+# Bangladesh Tourism Analytics: Insights and Implications (Ongoing)
+
+## Current Progress
+- ✅ Collected datasets from Bangladesh Tourism Board, World Bank, and UNWTO.  
+- ✅ Created initial charts (see `/charts` folder).  
+- 🛠️ Power BI dashboard version in preparation.  
+- 🛠️ Advanced forecasting models and policy recommendations under development.  
+
+## Next Steps
+- Upload Jupyter notebooks with Python analysis.  
+- Add comparative analysis across regions.  
+- Publish a detailed report
 
 **Goal**  
 Turn fragmented Bangladesh tourism data into decisions. Python (Pandas, Matplotlib) for analysis; Power BI for interactive dashboards.
