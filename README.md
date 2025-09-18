@@ -19,12 +19,13 @@ Turn fragmented Bangladesh tourism data into decisions. Python (Pandas, Matplotl
 - Seasonality: monsoon dip, Nov–Feb peak → plan campaigns and capacity.  
 - High-potential circuits: Sonargaon, Paharpur, Mahasthangarh → product development.
 
-**Assets**  
-- Dashboard overview (PNG): [/charts/bangladesh_tourism_dashboard.png](./charts/bangladesh_tourism_dashboard.png)  
-- Seasonality chart (PNG): [/charts/tourism_seasonality.png](./charts/tourism_seasonality.png)  
-- Division arrivals (PNG): [/charts/arrivals_by_division.png](./charts/arrivals_by_division.png)  
-- Spend share (PNG): [/charts/spend_share.png](./charts/spend_share.png)  
-- One-page summary (PDF): [/report/Bangladesh_Tourism_Analytics_Summary.pdf](./report/Bangladesh_Tourism_Analytics_Summary.pdf)
+## Assets
+- **Dashboard Overview** → [View](./charts/bangladesh_tourism_dashboard.png)  
+- **Seasonality Chart** → [View](./charts/tourism_seasonality.png)  
+- **Division Arrivals** → [View](./charts/arrivals_by_division.png)  
+- **Spend Share** → [View](./charts/spend_share.png)  
+- **One-Page Summary (PDF)** → [Download](./report/Bangladesh_Tourism_Analytics_Summary.pdf)  
+
 
 ## Research Relevance
 This project explores how tourism analytics can inform policy, business decisions, and sustainable development.  
