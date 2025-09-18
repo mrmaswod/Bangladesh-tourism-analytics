@@ -26,5 +26,12 @@ Turn fragmented Bangladesh tourism data into decisions. Python (Pandas, Matplotl
 - Spend share (PNG): [/charts/spend_share.png](./charts/spend_share.png)  
 - One-page summary (PDF): [/report/Bangladesh_Tourism_Analytics_Summary.pdf](./report/Bangladesh_Tourism_Analytics_Summary.pdf)
 
+## Research Relevance
+This project explores how tourism analytics can inform policy, business decisions, and sustainable development.  
+It connects directly to Information Systems research by demonstrating:  
+- Data-driven decision-making in emerging markets  
+- Application of Python and BI tools for real-world problem solving  
+- Building a foundation for predictive and prescriptive analytics in business strategy  
+
 **Tools**  
 Python (Pandas, Matplotlib) • Microsoft Power BI • EDA • Data Visualization • Forecasting
