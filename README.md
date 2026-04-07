@@ -30,6 +30,57 @@ Turn fragmented Bangladesh tourism data into decisions. Python (Pandas, Matplotl
 ## Research Relevance
 This project explores how tourism analytics can inform policy, business decisions, and sustainable development.  
 It connects directly to Information Systems research by demonstrating:  
+
+# Bangladesh Tourism Analytics & Forecast
+
+## 📊 Project Overview
+This project analyzes tourism trends in Bangladesh using historical data. The goal is to identify patterns, visualize growth, and predict future tourist arrivals using simple machine learning techniques.
+
+---
+
+## 🎯 Objectives
+- Analyze tourist arrival trends over time
+- Identify seasonal patterns
+- Visualize tourism growth
+- Predict future tourism demand
+
+---
+
+## 🛠 Tools & Technologies
+- Python (pandas, matplotlib, sklearn)
+- Power BI (for dashboard visualization)
+
+---
+
+## 📁 Dataset
+- World Bank tourism data
+- Bangladesh tourism statistics
+
+---
+
+## 📈 Key Insights
+- Tourism shows steady growth over the years
+- Certain periods have higher tourist inflow
+- Forecast indicates continued growth trend
+
+---
+
+## 🔮 Forecast
+A linear regression model was used to predict tourist arrivals for future years.
+
+---
+
+## 📊 Dashboard
+Power BI dashboard includes:
+- KPI cards (Total tourists, Growth rate)
+- Trend analysis (Line chart)
+- Country-wise distribution (Bar chart)
+
+---
+
+## 🚀 Author
+Md Motiur Rahman  
+Aspiring Data Analyst | Business Analytics Enthusiast  
 - Data-driven decision-making in emerging markets  
 - Application of Python and BI tools for real-world problem solving  
 - Building a foundation for predictive and prescriptive analytics in business strategy  
